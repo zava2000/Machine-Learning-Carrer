@@ -1,5 +1,5 @@
 
-# Stroke Prediction Dataset
+# Breast Cancer Prediction Dataset
 
 The following repository stores an .IPYNB file containing code related to exploratory analysis, feature engineering, and neural network implementation to predict benign or malignant breast tumors.
 
